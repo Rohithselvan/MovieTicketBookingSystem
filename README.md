@@ -133,9 +133,7 @@ Opens automatically at `http://localhost:3000`
 
 # 🔥 C++ Backend - The Core Engine
 
-## Why This Backend is Special
-
-This is **NOT** just CRUD operations. The C++ backend implements:
+The C++ backend implements:
 
 - **Advanced OOP** - 5 interdependent classes with clear responsibilities
 - **Memory Safety** - Proper allocation/deallocation with destructors
@@ -1013,7 +1011,7 @@ After studying this project, you'll understand:
 
 ## 🔮 Future Enhancements
 
-### Phase 1 (Next Month)
+### Phase 1
 
 - Database integration (PostgreSQL)
 - JWT authentication
@@ -1021,14 +1019,14 @@ After studying this project, you'll understand:
 - Payment gateway (Razorpay/Stripe)
 - Email notifications
 
-### Phase 2 (2 Months)
+### Phase 2
 
 - Multi-threaded booking (std::thread)
 - Advanced seat map UI
 - Promotional codes
 - Analytics dashboard
 
-### Phase 3 (3+ Months)
+### Phase 3
 
 - Mobile app (React Native)
 - Machine learning recommendations
@@ -1055,13 +1053,15 @@ After studying this project, you'll understand:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**
+This project is licensed under the **MIT License**.
+
 See LICENSE file for details.
 
 ---
 
 ## 📞 Contact & Support
-
+- **Name:** S.Rohith
+- **Mail:** rohithselvan10@gmail.com
 - **GitHub:** [Rohithselvan](https://github.com/Rohithselvan)
 - **Issues:** Create GitHub issue for bugs
 - **Discussions:** Use GitHub discussions for feature requests
@@ -1078,18 +1078,3 @@ This project demonstrates:
 - Best practices in software engineering
 
 ---
-
-**Congratulations on building a production-ready system!** 🎉
-
-**Next Steps:**
-
-1. Deploy to GitHub ✅
-2. Add database support
-3. Implement authentication
-4. Deploy to production
-5. Share with the community!
-
----
-
-*Last Updated: December 12, 2025*
-*Project Status: ✅ Production Ready*
